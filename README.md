@@ -1,6 +1,6 @@
 # Face Detection Using HOG
 
-[![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
+![View Private Cody Leaderboard on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
 
 ### Problem_1.m 
 This files implements the User created HOG.m function.
